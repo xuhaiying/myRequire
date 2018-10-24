@@ -1,0 +1,12 @@
+{
+  "name": "module",
+  "version": "1.0.0",
+  "description": "- 在node.js里通过require方法加载模块 - 这个加载是同步的 1. 找到这个文件 2. 读取此文件模块的内容 3. 把他封装在一个函数里立刻执行 4. 执行后把模块的module.exports对象赋给变量",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
